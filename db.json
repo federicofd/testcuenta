@@ -1,0 +1,75 @@
+{
+    "@odata.context": "$metadata#TeleviaAccounts/$entity",
+    "name": "Tania",
+    "uid": "10003871",
+    "rfc": "AVQ020699QWER",
+    "depositAmount": "0",
+    "minimumBalanceThreshold": "500",
+    "applyBilling": true,
+    "businessName": "Tania Aviles Quijano",
+    "billingLimit": "0",
+    "balanceAccount": true,
+    "notificationPercentage": "30",
+    "rechargeAmount": "0",
+    "invoiceDate": "2023-11-10T00:00:00.000",
+    "alertConsumptionLimit": "70",
+    "blockConsumptionLimit": "80",
+    "billingAddress": {
+        "postalcode": "08596",
+        "region": {
+            "isocode": "MX-CMX",
+            "country": {
+                "isocode": "MX"
+            }
+        },
+        "country": {
+            "isocode": "MX"
+        },
+        "sapAddressUUID": "f92c4d39-e802-1ede-9fd2-9b85229e5a30",
+        "town": "MEX",
+        "streetnumber": "45",
+        "streetname": "Mexico",
+        "district": "COMEX"
+    },
+    "groups": [
+        {
+            "uid": "10003870"
+        }
+    ],
+    "members": [
+        {
+            "name": "Tania",
+            "lastFatherName": "Aviles",
+            "lastMotherName": "Quijano",
+            "uid": "mailto:taniaqa@gmail.com",
+            "contactPhone": "+52 5585741263",
+            "function": {
+                "id": "Z001"
+            }
+        }
+    ],
+    "accountType": {
+        "id": "1"
+    },
+    "personType": {
+        "id": "1"
+    },
+    "taxRegime": {
+        "id": "605"
+    },
+    "invoicingPaymentMethod": {
+        "id": "1"
+    },
+    "paymentMethodSales": {
+        "id": "1"
+    },
+    "invoiceType": {
+        "id": "1"
+    },
+    "role": {
+        "id": "ZCRM03"
+    },
+    "billingPeriod": {
+        "id": "5"
+    }
+}
